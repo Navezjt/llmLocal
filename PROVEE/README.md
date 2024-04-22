@@ -1,1 +1,2 @@
 - https://github.com/GonzaSab/llmLocal
+- https://www.youtube.com/watch?v=Dn3Z39GZJEY
